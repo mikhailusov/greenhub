@@ -7,4 +7,4 @@ https://mikhailusov.github.io/greenhub
 Inspired by meme:
 ![meme](meme.jpg)
 
-(says: you | your mom's friend son)
+Not anymore!
